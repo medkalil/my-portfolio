@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/medkalil/my-portfolio/static/css/main.5daca298.chunk.css",
+    "main.js": "/medkalil/my-portfolio/static/js/main.fe046698.chunk.js",
+    "main.js.map": "/medkalil/my-portfolio/static/js/main.fe046698.chunk.js.map",
+    "runtime-main.js": "/medkalil/my-portfolio/static/js/runtime-main.2b0aa381.js",
+    "runtime-main.js.map": "/medkalil/my-portfolio/static/js/runtime-main.2b0aa381.js.map",
+    "static/js/2.fc353941.chunk.js": "/medkalil/my-portfolio/static/js/2.fc353941.chunk.js",
+    "static/js/2.fc353941.chunk.js.map": "/medkalil/my-portfolio/static/js/2.fc353941.chunk.js.map",
+    "static/js/3.ae4deaf4.chunk.js": "/medkalil/my-portfolio/static/js/3.ae4deaf4.chunk.js",
+    "static/js/3.ae4deaf4.chunk.js.map": "/medkalil/my-portfolio/static/js/3.ae4deaf4.chunk.js.map",
+    "index.html": "/medkalil/my-portfolio/index.html",
+    "static/css/main.5daca298.chunk.css.map": "/medkalil/my-portfolio/static/css/main.5daca298.chunk.css.map",
+    "static/js/2.fc353941.chunk.js.LICENSE.txt": "/medkalil/my-portfolio/static/js/2.fc353941.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/medkalil/my-portfolio/static/media/contact-bg.3cd6dd98.png",
+    "static/media/mon_cv.cca88d52.pdf": "/medkalil/my-portfolio/static/media/mon_cv.cca88d52.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b0aa381.js",
+    "static/js/2.fc353941.chunk.js",
+    "static/css/main.5daca298.chunk.css",
+    "static/js/main.fe046698.chunk.js"
+  ]
+}
